@@ -1,0 +1,58 @@
+{
+  "id": "./",
+  "name": "E4CC Practice · Práctica de inglés",
+  "short_name": "E4CC",
+  "description": "Lecciones, tarjetas, diccionario y hábitos diarios para practicar inglés, también sin conexión.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f5fb",
+  "theme_color": "#4f46e5",
+  "categories": [
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Hábitos de hoy",
+      "url": "./#habitos"
+    },
+    {
+      "name": "Diccionario",
+      "url": "./#diccionario"
+    }
+  ]
+}
